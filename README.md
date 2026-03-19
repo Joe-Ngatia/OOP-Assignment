@@ -11,7 +11,7 @@ This project demonstrates Object-Oriented Programming (OOP) concepts in Python, 
 
 ## Files
 - Object_and_Classes.py
-- Constructors_and_Deconstructors.py
+- Constructors_and_Destructors.py
 - OOP_1&2.docx
 
 ## Author
